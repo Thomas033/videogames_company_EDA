@@ -4,4 +4,4 @@ Basic .csv file with data of a company in the video games industry. The dataset 
 
 Columns = ["ACCT_ID", "SUBSCRIPTION_BILLABLE_TYPE", "SUBSCRIPTION_TYPE", "SKU_LENGTH", "SUB_STATE", "SUB_START_DATE", "SUB_END_DATE"] 
 
-This EDA has no specific objective. You can find the commented analysis under "video_games_company_EDA".
+This EDA has no specific objective. You can find the commented analysis under "video_games_company_EDA.ipynb".
